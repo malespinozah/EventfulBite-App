@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Eventful_Bite_App.Models.JournalDto>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<div class="wrap-list">
+    <div class="list-image">
+        <img src="~/Content/Images/listentries.jpg" alt="List" />
+    </div>
+    <div class="list-display">
+        <h2>Journal Entries</h2>
+
+        <div class="Journal">
+            @foreach (var journal in Model)
+            {
+                <div>
+                    <a href="Details/@journal.JournalId"> @journal.JournalTitle</a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
