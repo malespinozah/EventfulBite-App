@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D86C8701-3044-4100-A603-60B11FEA7ECA}|Eventful Bite App\\Eventful Bite App.csproj|solutionrelative:eventful bite app\\content\\style\\styleapp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D86C8701-3044-4100-A603-60B11FEA7ECA}|Eventful Bite App\\Eventful Bite App.csproj|c:\\users\\male_\\desktop\\eventful-bites-app\\eventful bite app\\views\\branch\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D86C8701-3044-4100-A603-60B11FEA7ECA}|Eventful Bite App\\Eventful Bite App.csproj|C:\\Users\\male_\\Desktop\\eventful-bites-app\\eventful bite app\\views\\branch\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D86C8701-3044-4100-A603-60B11FEA7ECA}|Eventful Bite App\\Eventful Bite App.csproj|solutionrelative:eventful bite app\\views\\branch\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Eventful Bite App\\Views\\Branch\\List.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAADwvxkAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T05:23:04.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T05:23:04.136Z"
             },
             {
               "$type": "Document",
